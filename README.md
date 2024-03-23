@@ -2,4 +2,4 @@ Summary - In this ICP, the code extends an autoencoder neural network in Keras b
 
 There is one source code files with name ICP8.ipynb, There is one documentation file which consists of the executed python code along with the output result.
 
-Video explanation - https://drive.google.com/file/d/1t073PlUCS0H1A4D3A4sqdNU0LzuDn0q8/view?usp=drive_link
+Video explanation - https://drive.google.com/file/d/1RnmlNluZhWFzu__qQWqihWm-F2l3GHka/view?usp=drive_link
