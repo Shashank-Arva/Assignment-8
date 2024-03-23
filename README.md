@@ -1,1 +1,5 @@
-# Assignment-8
+Summary - In this ICP, the code extends an autoencoder neural network in Keras by incorporating an additional hidden layer, featuring an encoding dimension set to 32. The model is compiled using the 'adadelta' optimizer and 'binary_crossentropy' loss function, then trained on the Fashion MNIST dataset for 5 epochs. After training, the model undergoes testing on the test data, reconstructing images and displaying both original and reconstructed versions using Matplotlib. The training process is replicated for a denoising autoencoder, where noise is intentionally introduced to input images to enhance the model's denoising capability. Subsequently, the model is trained for 10 epochs and evaluated similarly to the previous autoencoder. Finally, the performance metrics including loss and accuracy are visualized using the history object, offering insights into the denoising autoencoder's effectiveness across epochs on the Fashion MNIST dataset.
+
+There is one source code files with name ICP8.ipynb, There is one documentation file which consists of the executed python code along with the output result.
+
+Video explanation - https://drive.google.com/file/d/1t073PlUCS0H1A4D3A4sqdNU0LzuDn0q8/view?usp=drive_link
